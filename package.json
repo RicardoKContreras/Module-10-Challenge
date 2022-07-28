@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "module10challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+  
+}
